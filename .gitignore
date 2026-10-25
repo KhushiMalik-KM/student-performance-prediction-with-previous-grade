@@ -1,0 +1,12 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Dataset: keep local, don't upload to GitHub
+*.csv
